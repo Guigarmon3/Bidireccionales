@@ -1,4 +1,4 @@
-# 🎓 Sistema de Gestión de Notas de Alumnos (Java Console)
+# 🎓 Sistema de notas de alumnos
 
 Una sencilla aplicación de consola desarrollada en Java para la gestión básica y visualización de notas de estudiantes. Este programa simula un registro de calificaciones, permitiendo ingresar alumnos, generar notas aleatorias y consultar la información de diversas formas.
 
